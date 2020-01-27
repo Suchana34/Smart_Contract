@@ -6,4 +6,4 @@ Solidity is an object-oriented, high-level language for implementing smart contr
 
 For more details about solidity head over here - https://solidity.readthedocs.io/en/v0.6.1/
 
-This smart contract has the simplest implementation i.e transactions of cryptocurrency across any Blockchain network. Investors can buy and sell cryptocurrencies. 
+This smart contract has the simplest implementation i.e transactions of cryptocurrency across any Blockchain network in Ethereum virtual machine. Investors can buy and sell cryptocurrencies. 
